@@ -1,0 +1,2 @@
+rootProject.name = "SS9-SQLite-Part1"
+include ':app'
